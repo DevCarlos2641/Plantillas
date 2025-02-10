@@ -1,11 +1,19 @@
-Para insatalar:
+# Para insatalar:
+
   1- Descargar el repositorio
+  
   2- Abrir la terminal en el directorio
+  
   3- usar el comando: npm install
+  
   4- esperar a que se descarguen los modulos
+  
   5- usar el comando: npm run dev
+  
   6- visitar en el navegador la url: http://localhost:5174/
+  
   7- iisto
+  
 
 # React + TypeScript + Vite
 
